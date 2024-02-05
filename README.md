@@ -6,7 +6,7 @@ Authors: [Saelyne Yang](https://www.saelyne.com/), Sunghyun Park, [Yunseok Jang]
 
 ## Dataset
 
-The YTCommentQA dataset can be found at `dataset.json`. It is a dataset which contains naturally-generated questions from YouTube, categorized by their answerability and required modality to answer -- visual, script, or both.
+The YTCommentQA dataset can be found at `dataset.json`. It contains naturally-generated questions from YouTube, categorized by their answerability and required modality to answer -- visual, script, or both.
 
 
 ```
