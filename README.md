@@ -6,7 +6,7 @@ This is the official repository of the following AAAI 2024 paper: [YTCommentQA: 
 
 ## Dataset
 
-The YTCommentQA dataset can be found at `dataset.json`. It is a dataset which contains naturally-generated questions from YouTube, categorized by their answerability and required modality to answer -- visual, script, or both.
+The YTCommentQA dataset can be found at `dataset.json`. It contains naturally-generated questions collected from the YouTube comment section, categorized by their answerability and required modality to answer -- visual, script, or both.
 
 
 ```
