@@ -2,6 +2,7 @@
 
 This is the official repository of the following AAAI 2024 paper: [YTCommentQA: Video Question Answerability in Instructional Videos](https://arxiv.org/abs/2401.17343)
 
+- [[paper](https://arxiv.org/abs/2401.17343)][[poster](https://drive.google.com/file/d/1bRLYm61tjrwTVorpL_sMNaAuRfGJZQBE/view?usp=sharing)]
 - Authors: [Saelyne Yang](https://www.saelyne.com/), Sunghyun Park, [Yunseok Jang](https://yunseokjang.github.io/), [Moontae Lee](https://moontae.people.uic.edu/)
 
 ## Dataset
