@@ -1,8 +1,8 @@
 # YTCommentQA: Video Question Answerability in Instructional Videos
 
-This is the official repository of the following AAAI 2024 paper: [YTCommentQA: Video Question Answerability in Instructional Videos](https://arxiv.org/abs/2401.17343)
+This is the official repository of the following AAAI 2024 paper: <a href="https://arxiv.org/abs/2401.17343" target="_blank">YTCommentQA: Video Question Answerability in Instructional Videos</a>
 
-- [[paper](https://arxiv.org/abs/2401.17343)][[poster](https://drive.google.com/file/d/1bRLYm61tjrwTVorpL_sMNaAuRfGJZQBE/view?usp=sharing)]
+- [<a href="https://arxiv.org/abs/2401.17343" target="_blank">Paper</a>][<a href="https://drive.google.com/file/d/1bRLYm61tjrwTVorpL_sMNaAuRfGJZQBE/view?usp=sharing" target="_blank">Poster</a>]
 - Authors: [Saelyne Yang](https://www.saelyne.com/), Sunghyun Park, [Yunseok Jang](https://yunseokjang.github.io/), [Moontae Lee](https://moontae.people.uic.edu/)
 
 ## Dataset
