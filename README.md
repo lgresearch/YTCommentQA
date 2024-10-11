@@ -70,7 +70,7 @@ SOFTWARE.
 
 ## Citation
 ```
-@inproceedings{yang2023ytcommentqa,
+@inproceedings{yang2024ytcommentqa,
   Author    = {Yang, Saelyne and Park, Sunghyun and Jang, Yunseok and Lee, Moontae},
   Title     = {{YTCommentQA: Video Question Answerability in Instructional Videos}},
   Booktitle = {AAAI},
